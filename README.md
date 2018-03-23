@@ -4,11 +4,11 @@ github common operation
 ## Contributing
 
 1. Fork it
-2. Create your feature branch
+2. Create your feature branch <br>
    `$ git checkout -b my-new-feature`
-3. Commit your changes 
+3. Commit your changes <br>
    `$ git commit -am 'Added some feature'`
-4. Push to the branch 
+4. Push to the branch <br>
    `$ git push origin my-new-feature`
 5. Create new Pull Request (on github website)
 
