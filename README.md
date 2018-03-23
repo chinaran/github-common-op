@@ -1,7 +1,7 @@
 # github-common-op
 github common operation
 
-## Contributing
+## Contribute to other project
 
 1. Fork it
 2. Create your feature branch <br>
